@@ -1,5 +1,5 @@
 ## enzyme-context-bug
-This demonstrates the context bug in `enzyme`.
+This demonstrates the context bug in `enzyme`. [enzyme#119](https://github.com/airbnb/enzyme/issues/119)
 
 ## Running
 ```bash
