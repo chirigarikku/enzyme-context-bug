@@ -1,6 +1,12 @@
 ## enzyme-context-bug
 This demonstrates the context bug in `enzyme`.
 
+## Running
+```bash
+npm install
+npm test
+```
+
 ## Behavior
 Running `setProps` turns `context` to `undefined`.
 
