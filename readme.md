@@ -1,5 +1,7 @@
-## enzyme-context-bug
-This demonstrates the context bug in `enzyme`. [enzyme#119](https://github.com/airbnb/enzyme/issues/119)
+## enzyme-context-bug `[fixed]`
+This demonstrates the context bug in `enzyme`. Check [enzyme#119](https://github.com/airbnb/enzyme/issues/119).
+
+**Update**: Fixed by [enzyme#121](https://github.com/airbnb/enzyme/pull/121), released in [`v1.3.1`](https://github.com/airbnb/enzyme/commit/c06ac0a6c3c088803ced9728dfa6be215def100c).
 
 ## Running
 ```bash
