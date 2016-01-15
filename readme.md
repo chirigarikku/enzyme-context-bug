@@ -8,7 +8,7 @@ npm test
 ```
 
 ## Behavior
-Running `setProps` turns `context` to `undefined`.
+`ShallowWrapper.setProps` does not pass the old context to the new shallow-rendered component.
 
 ## Reproducing
 ```js
